@@ -1,0 +1,1 @@
+ini file1.txt dari local yang akan dipush ke Github
